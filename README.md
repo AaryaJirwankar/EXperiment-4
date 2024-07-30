@@ -1,5 +1,5 @@
 # EXperiment-4
-## aim:
+## Aim:
 The aim of this program is to demonstrate the bitwise operations and shifts in C++ using predefined integer values for variables a and b.
 
 ## Theory:
